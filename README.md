@@ -1,53 +1,60 @@
 # 💻 C Mini Projects Collection
 
-This repository contains three simple C programming projects:
+This repository contains four simple C programming projects:
 
 1. 🏧 ATM Banking System
 2. 🎮 Snake Water Gun Game
 3. 🚆 Railway Reservation System
+4. 👨‍💼 Employee Payroll Management System
 
 ---
 
 # 🏧 ATM Banking System
 
 ## 📌 Description
-A simple ATM Banking System developed using C programming.  
-Users can check balance, deposit money, and withdraw money.
+A simple ATM Banking System developed using C programming.
 
 ### 🎯 Features
 - Check balance
 - Deposit money
 - Withdraw money
-- Colored console UI
-- Menu-driven program
 
 ---
 
 # 🎮 Snake Water Gun Game
 
 ## 📌 Description
-A fun game developed using C programming where the user plays Snake, Water, and Gun against the computer.
+A fun game developed using C programming where the user plays against the computer.
 
 ### 🎯 Features
 - Random computer choice
 - Winner calculation
 - Colored console interface
-- Simple game logic
 
 ---
 
 # 🚆 Railway Reservation System
 
 ## 📌 Description
-A Railway Reservation System developed using C programming.  
-Users can book train tickets and view reservation details.
+A Railway Reservation System used to book train tickets.
 
 ### 🎯 Features
 - Book train tickets
-- View passenger reservations
-- Automatic seat number generation
+- View reservations
+- Seat number generation
+
+---
+
+# 👨‍💼 Employee Payroll Management System
+
+## 📌 Description
+A payroll management system used to store employee details and salary records.
+
+### 🎯 Features
+- Add employee details
+- Display employee records
+- Salary management
 - Colored console interface
-- Menu-driven system
 
 ---
 
@@ -61,41 +68,16 @@ Users can book train tickets and view reservation details.
 # ▶️ How to Run
 
 ## ATM Banking System
-
-### Compile
 gcc atm_system.c -o atm
 
-### Run
-./atm
-
-(For Windows)
-atm.exe
-
----
-
 ## Snake Water Gun Game
-
-### Compile
 gcc snake_water_gun.c -o game
 
-### Run
-./game
-
-(For Windows)
-game.exe
-
----
-
 ## Railway Reservation System
-
-### Compile
 gcc railway_reservation.c -o railway
 
-### Run
-./railway
-
-(For Windows)
-railway.exe
+## Employee Payroll System
+gcc employee_payroll.c -o payroll
 
 ---
 
@@ -111,13 +93,15 @@ C_Projects/
 │── Railway_Reservation_System/
 │   │── railway_reservation.c
 │
+│── Employee_Payroll_System/
+│   │── employee_payroll.c
+│
 │── README.md
 
 ---
 
 # 👩‍💻 Author
-- Raja Sherina T
-- CSE Dept
+- Your Name
 
 ---
 
