@@ -46,24 +46,6 @@ Users can book train tickets and view reservation details.
 
 ---
 
-# 👨‍💼 Employee Payroll Management System
-
-## 📌 Description
-An Employee Payroll Management System developed using C programming.  
-This project helps to store and manage employee details such as employee ID, employee name, and salary information.
-
-The system provides a simple and user-friendly menu-driven interface with colored console output for better readability.
-
-### 🎯 Features
-- Add employee details
-- View employee records
-- Salary management
-- Colored console interface
-- Menu-driven system
-- Simple payroll management
-
----
-
 # 🏥 Hospital Management System
 
 ## 📌 Description
