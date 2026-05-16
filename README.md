@@ -123,9 +123,6 @@ C_Projects/
 │── Railway_Reservation_System/
 │   │── railway_reservation.c
 │
-│── Employee_Payroll_System/
-│   │── employee_payroll.c
-│
 │── Hospital_Management_System/
 │   │── hospital_management.c
 │
