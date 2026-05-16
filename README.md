@@ -98,6 +98,19 @@ game.exe
 
 ---
 
+## Railway Reservation System
+
+### Compile
+gcc railway_reservation.c -o railway
+
+### Run
+./railway
+
+(For Windows)
+railway.exe
+
+---
+
 ## Hospital Management System
 
 ### Compile
