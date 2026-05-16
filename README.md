@@ -111,19 +111,6 @@ railway.exe
 
 ---
 
-## Employee Payroll Management System
-
-### Compile
-gcc employee_payroll.c -o payroll
-
-### Run
-./payroll
-
-(For Windows)
-payroll.exe
-
----
-
 ## Hospital Management System
 
 ### Compile
