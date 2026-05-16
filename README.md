@@ -64,6 +64,23 @@ The system provides a simple and user-friendly menu-driven interface with colore
 
 ---
 
+# 🏥 Hospital Management System
+
+## 📌 Description
+A Hospital Management System developed using C programming.  
+This project is used to store and manage patient details in a simple and efficient way.
+
+The system allows users to add patient records and display patient information using a menu-driven interface.
+
+### 🎯 Features
+- Add patient details
+- View patient records
+- Menu-driven interface
+- Easy patient management
+- Simple and user-friendly system
+
+---
+
 # 🛠️ Technologies Used
 - C Programming Language
 - GCC Compiler
@@ -125,6 +142,19 @@ payroll.exe
 
 ---
 
+## Hospital Management System
+
+### Compile
+gcc hospital_management.c -o hospital
+
+### Run
+./hospital
+
+(For Windows)
+hospital.exe
+
+---
+
 # 📂 Project Structure
 
 C_Projects/
@@ -139,6 +169,9 @@ C_Projects/
 │
 │── Employee_Payroll_System/
 │   │── employee_payroll.c
+│
+│── Hospital_Management_System/
+│   │── hospital_management.c
 │
 │── README.md
 
